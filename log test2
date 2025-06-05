@@ -1,0 +1,356 @@
+PS C:\Users\arjun\Desktop\pygame> python agent.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.12.2)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+C:\Users\arjun\Desktop\pygame\model.py:36: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\utils\tensor_new.cpp:257.)
+  state = torch.tensor(state, dtype=torch.float)
+Game 1 Score 0 Record: 0
+Figure(640x480)
+Game 2 Score 0 Record: 0
+Figure(960x720)
+Game 3 Score 0 Record: 0
+Figure(960x720)
+Game 4 Score 0 Record: 0
+Figure(960x720)
+Game 5 Score 0 Record: 0
+Figure(960x720)
+Game 6 Score 0 Record: 0
+Figure(960x720)
+Game 7 Score 0 Record: 0
+Figure(960x720)
+Game 8 Score 0 Record: 0
+Figure(960x720)
+Game 9 Score 0 Record: 0
+Figure(960x720)
+Game 10 Score 0 Record: 0
+Figure(960x720)
+Game 11 Score 0 Record: 0
+Figure(960x720)
+Game 12 Score 0 Record: 0
+Figure(960x720)
+Game 13 Score 0 Record: 0
+Figure(960x720)
+Game 14 Score 0 Record: 0
+Figure(960x720)
+Game 15 Score 0 Record: 0
+Figure(960x720)
+Game 16 Score 0 Record: 0
+Figure(960x720)
+Game 17 Score 1 Record: 1
+Figure(960x720)
+Game 18 Score 0 Record: 1
+Figure(960x720)
+Game 19 Score 0 Record: 1
+Figure(960x720)
+Game 20 Score 1 Record: 1
+Figure(960x720)
+Game 21 Score 0 Record: 1
+Figure(960x720)
+Game 22 Score 0 Record: 1
+Figure(960x720)
+Game 23 Score 0 Record: 1
+Figure(960x720)
+Game 24 Score 0 Record: 1
+Figure(960x720)
+Game 25 Score 0 Record: 1
+Figure(960x720)
+Game 26 Score 0 Record: 1
+Figure(960x720)
+Game 27 Score 1 Record: 1
+Figure(960x720)
+Game 28 Score 0 Record: 1
+Figure(960x720)
+Game 29 Score 0 Record: 1
+Figure(960x720)
+Game 30 Score 0 Record: 1
+Figure(960x720)
+Game 31 Score 1 Record: 1
+Figure(960x720)
+Game 32 Score 1 Record: 1
+Figure(960x720)
+Game 33 Score 0 Record: 1
+Figure(960x720)
+Game 34 Score 0 Record: 1
+Figure(960x720)
+Game 35 Score 1 Record: 1
+Figure(960x720)
+Game 36 Score 0 Record: 1
+Figure(960x720)
+Game 37 Score 1 Record: 1
+Figure(960x720)
+Game 38 Score 0 Record: 1
+Figure(960x720)
+Game 39 Score 1 Record: 1
+Figure(960x720)
+Game 40 Score 0 Record: 1
+Figure(960x720)
+Game 41 Score 0 Record: 1
+Figure(960x720)
+Game 42 Score 0 Record: 1
+Figure(960x720)
+Game 43 Score 1 Record: 1
+Figure(960x720)
+Game 44 Score 0 Record: 1
+Figure(960x720)
+Game 45 Score 1 Record: 1
+Figure(960x720)
+Game 46 Score 0 Record: 1
+Figure(960x720)
+Game 47 Score 0 Record: 1
+Figure(960x720)
+Game 48 Score 1 Record: 1
+Figure(960x720)
+Game 49 Score 1 Record: 1
+Figure(960x720)
+Game 50 Score 1 Record: 1
+Figure(960x720)
+Game 51 Score 0 Record: 1
+Figure(960x720)
+Game 52 Score 0 Record: 1
+Figure(960x720)
+Game 53 Score 1 Record: 1
+Figure(960x720)
+Game 54 Score 1 Record: 1
+Figure(960x720)
+Game 55 Score 0 Record: 1
+Figure(960x720)
+Game 56 Score 1 Record: 1
+Figure(960x720)
+Game 57 Score 0 Record: 1
+Figure(960x720)
+Game 58 Score 0 Record: 1
+Figure(960x720)
+Game 59 Score 0 Record: 1
+Figure(960x720)
+Game 60 Score 0 Record: 1
+Figure(960x720)
+Game 61 Score 1 Record: 1
+Figure(960x720)
+Game 62 Score 1 Record: 1
+Figure(960x720)
+Game 63 Score 1 Record: 1
+Figure(960x720)
+Game 64 Score 0 Record: 1
+Figure(960x720)
+Game 65 Score 0 Record: 1
+Figure(960x720)
+Game 66 Score 1 Record: 1
+Figure(960x720)
+Game 67 Score 2 Record: 2
+Figure(960x720)
+Game 68 Score 3 Record: 3
+Figure(960x720)
+Game 69 Score 2 Record: 3
+Figure(960x720)
+Game 70 Score 0 Record: 3
+Figure(960x720)
+Game 71 Score 0 Record: 3
+Figure(960x720)
+Game 72 Score 1 Record: 3
+Figure(960x720)
+Game 73 Score 0 Record: 3
+Figure(960x720)
+Game 74 Score 1 Record: 3
+Figure(960x720)
+Game 75 Score 0 Record: 3
+Figure(960x720)
+Game 76 Score 0 Record: 3
+Figure(960x720)
+Game 77 Score 0 Record: 3
+Figure(960x720)
+Game 78 Score 0 Record: 3
+Figure(960x720)
+Game 79 Score 1 Record: 3
+Figure(960x720)
+Game 80 Score 3 Record: 3
+Figure(960x720)
+Game 81 Score 0 Record: 3
+Figure(960x720)
+Game 82 Score 1 Record: 3
+Figure(960x720)
+Game 83 Score 5 Record: 5
+Figure(960x720)
+Game 84 Score 1 Record: 5
+Figure(960x720)
+Game 85 Score 0 Record: 5
+Figure(960x720)
+Game 86 Score 1 Record: 5
+Figure(960x720)
+Game 87 Score 1 Record: 5
+Figure(960x720)
+Game 88 Score 2 Record: 5
+Figure(960x720)
+Game 89 Score 6 Record: 6
+Figure(960x720)
+Game 90 Score 1 Record: 6
+Figure(960x720)
+Game 91 Score 1 Record: 6
+Figure(960x720)
+Game 92 Score 2 Record: 6
+Figure(960x720)
+Game 93 Score 0 Record: 6
+Figure(960x720)
+Game 94 Score 0 Record: 6
+Figure(960x720)
+Game 95 Score 3 Record: 6
+Figure(960x720)
+Game 96 Score 8 Record: 8
+Figure(960x720)
+Game 97 Score 7 Record: 8
+Figure(960x720)
+Game 98 Score 12 Record: 12
+Figure(960x720)
+Game 99 Score 0 Record: 12
+Figure(960x720)
+Game 100 Score 1 Record: 12
+Figure(960x720)
+Game 101 Score 8 Record: 12
+Figure(960x720)
+Game 102 Score 3 Record: 12
+Figure(960x720)
+Game 103 Score 12 Record: 12
+Figure(960x720)
+Game 104 Score 3 Record: 12
+Figure(960x720)
+Game 105 Score 4 Record: 12
+Figure(960x720)
+Game 106 Score 0 Record: 12
+Figure(960x720)
+Game 107 Score 10 Record: 12
+Figure(960x720)
+Game 108 Score 2 Record: 12
+Figure(960x720)
+Game 109 Score 14 Record: 14
+Figure(960x720)
+Game 110 Score 1 Record: 14
+Figure(960x720)
+Game 111 Score 13 Record: 14
+Figure(960x720)
+Game 112 Score 2 Record: 14
+Figure(960x720)
+Game 113 Score 22 Record: 22
+Figure(960x720)
+Game 114 Score 24 Record: 24
+Figure(960x720)
+Game 115 Score 13 Record: 24
+Figure(960x720)
+Game 116 Score 0 Record: 24
+Figure(960x720)
+Game 117 Score 0 Record: 24
+Figure(960x720)
+Game 118 Score 0 Record: 24
+Figure(960x720)
+Game 119 Score 2 Record: 24
+Figure(960x720)
+Game 120 Score 22 Record: 24
+Figure(960x720)
+Game 121 Score 9 Record: 24
+Figure(960x720)
+Game 122 Score 8 Record: 24
+Figure(960x720)
+Game 123 Score 3 Record: 24
+Figure(960x720)
+Game 124 Score 15 Record: 24
+Figure(960x720)
+Game 125 Score 12 Record: 24
+Figure(960x720)
+Game 126 Score 27 Record: 27
+Figure(960x720)
+Game 127 Score 28 Record: 28
+Figure(960x720)
+Game 128 Score 25 Record: 28
+Figure(960x720)
+Game 129 Score 10 Record: 28
+Figure(960x720)
+Game 130 Score 10 Record: 28
+Figure(960x720)
+Game 131 Score 1 Record: 28
+Figure(960x720)
+Game 132 Score 21 Record: 28
+Figure(960x720)
+Game 133 Score 2 Record: 28
+Figure(960x720)
+Game 134 Score 26 Record: 28
+Figure(960x720)
+Game 135 Score 8 Record: 28
+Figure(960x720)
+Game 136 Score 2 Record: 28
+Figure(960x720)
+Game 137 Score 10 Record: 28
+Figure(960x720)
+Game 138 Score 22 Record: 28
+Figure(960x720)
+Game 139 Score 9 Record: 28
+Figure(960x720)
+Game 140 Score 14 Record: 28
+Figure(960x720)
+Game 141 Score 19 Record: 28
+Figure(960x720)
+Game 142 Score 19 Record: 28
+Figure(960x720)
+Game 143 Score 23 Record: 28
+Figure(960x720)
+Game 144 Score 15 Record: 28
+Figure(960x720)
+Game 145 Score 24 Record: 28
+Figure(960x720)
+Game 146 Score 1 Record: 28
+Figure(960x720)
+Game 147 Score 29 Record: 29
+Figure(960x720)
+Game 148 Score 16 Record: 29
+Figure(960x720)
+Game 149 Score 9 Record: 29
+Figure(960x720)
+Game 150 Score 10 Record: 29
+Figure(960x720)
+Game 151 Score 4 Record: 29
+Figure(960x720)
+Game 152 Score 13 Record: 29
+Figure(960x720)
+Game 153 Score 2 Record: 29
+Figure(960x720)
+Game 154 Score 15 Record: 29
+Figure(960x720)
+Game 155 Score 18 Record: 29
+Figure(960x720)
+Game 156 Score 5 Record: 29
+Figure(960x720)
+Game 157 Score 22 Record: 29
+Figure(960x720)
+Game 158 Score 22 Record: 29
+Figure(960x720)
+Game 159 Score 12 Record: 29
+Figure(960x720)
+Game 160 Score 3 Record: 29
+Figure(960x720)
+Game 161 Score 7 Record: 29
+Figure(960x720)
+Game 162 Score 12 Record: 29
+Figure(960x720)
+Game 163 Score 19 Record: 29
+Figure(960x720)
+Game 164 Score 21 Record: 29
+Figure(960x720)
+Game 165 Score 10 Record: 29
+Figure(960x720)
+Game 166 Score 11 Record: 29
+Figure(960x720)
+Game 167 Score 4 Record: 29
+Figure(960x720)
+Game 168 Score 33 Record: 33
+Figure(960x720)
+Game 169 Score 24 Record: 33
+Figure(2560x1278)
+Game 170 Score 17 Record: 33
+Figure(2560x1278)
+Game 171 Score 16 Record: 33
+Figure(2560x1278)
+Game 172 Score 21 Record: 33
+Figure(2560x1278)
+Game 173 Score 7 Record: 33
+Figure(2560x1278)
+Game 174 Score 10 Record: 33
+Figure(2560x1278)
+Game 175 Score 20 Record: 33
+Figure(2560x1278)
+Game 176 Score 18 Rec
